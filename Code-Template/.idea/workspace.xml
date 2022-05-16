@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="489c7a28-710c-4b6d-bb21-4638edef92e4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../software/program/Go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/datastruction/kmp/Kmp.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../../../software/program/JDKKits/jdk1.8/JDK/src.zip!/java/util/LinkedList.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="localRepository" value="D:\software\program\Maven\LocalRepository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../software/program/Maven/apache-maven-3.8.4" />
+        <option name="showDialogWithAdvancedSettings" value="true" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\software\program\Maven\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="273GG6XWwOJ5cpaTYF6oQAXSz1n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.format.on.save.advertiser.fired&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;configurable..is.expanded&quot;: &quot;false&quot;,
+    &quot;configurable.GoLibrariesConfigurable.is.expanded&quot;: &quot;true&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dp.bagsolution.zeroandonebag" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CowActors">
+    <configuration name="Count" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.numposdp.counting.Count" />
+      <module name="Code-Template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dp.numposdp.counting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoverIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedy.intervals.intervalconver.CoverIntervals" />
+      <module name="Code-Template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="greedy.intervals.intervalconver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CowActors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedy.principle.cowact.CowActors" />
+      <module name="Code-Template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="greedy.principle.cowact.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupingIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedy.intervals.groupintervals.GroupingIntervals" />
+      <module name="Code-Template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="greedy.intervals.groupintervals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectPointsInIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedy.intervals.selectpointininterval.SelectPointsInIntervals" />
+      <module name="Code-Template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="greedy.intervals.selectpointininterval.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Count" />
+      <item itemvalue="Application.CoverIntervals" />
+      <item itemvalue="Application.CowActors" />
+      <item itemvalue="Application.GroupingIntervals" />
+      <item itemvalue="Application.SelectPointsInIntervals" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CowActors" />
+        <item itemvalue="Application.CoverIntervals" />
+        <item itemvalue="Application.GroupingIntervals" />
+        <item itemvalue="Application.SelectPointsInIntervals" />
+        <item itemvalue="Application.Count" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="489c7a28-710c-4b6d-bb21-4638edef92e4" name="Changes" comment="" />
+      <created>1648541258714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648541258714</updated>
+      <workItem from="1648541260011" duration="4166000" />
+      <workItem from="1648625551631" duration="13372000" />
+      <workItem from="1648712938761" duration="29874000" />
+      <workItem from="1648870769967" duration="5295000" />
+      <workItem from="1648893553619" duration="14000" />
+      <workItem from="1648897143538" duration="7052000" />
+      <workItem from="1648912537823" duration="2141000" />
+      <workItem from="1648978891539" duration="14414000" />
+      <workItem from="1649047313564" duration="1425000" />
+      <workItem from="1649086226821" duration="7708000" />
+      <workItem from="1649176722409" duration="1166000" />
+      <workItem from="1649222891898" duration="854000" />
+      <workItem from="1649240636662" duration="555000" />
+      <workItem from="1649245374983" duration="2147000" />
+      <workItem from="1649258660757" duration="64000" />
+      <workItem from="1649263953740" duration="3338000" />
+      <workItem from="1649301832434" duration="1270000" />
+      <workItem from="1649350325489" duration="6568000" />
+      <workItem from="1649438329600" duration="434000" />
+      <workItem from="1649501107830" duration="5971000" />
+      <workItem from="1649515932883" duration="7000" />
+      <workItem from="1649521683459" duration="5000" />
+      <workItem from="1649524096730" duration="4969000" />
+      <workItem from="1649577698669" duration="3319000" />
+      <workItem from="1649607098645" duration="5899000" />
+      <workItem from="1649661309573" duration="604000" />
+      <workItem from="1649681684005" duration="614000" />
+      <workItem from="1649684473732" duration="8490000" />
+      <workItem from="1649753016674" duration="2183000" />
+      <workItem from="1649771247042" duration="1777000" />
+      <workItem from="1649779991081" duration="12000" />
+      <workItem from="1649784678236" duration="643000" />
+      <workItem from="1649826919609" duration="3439000" />
+      <workItem from="1649869492202" duration="4304000" />
+      <workItem from="1649924957559" duration="43000" />
+      <workItem from="1649955325327" duration="1561000" />
+      <workItem from="1649959963510" duration="4465000" />
+      <workItem from="1650038856356" duration="1858000" />
+      <workItem from="1650088254329" duration="19223000" />
+      <workItem from="1650161584378" duration="5811000" />
+      <workItem from="1650190999776" duration="6460000" />
+      <workItem from="1650299870256" duration="1760000" />
+      <workItem from="1650633767215" duration="4000" />
+      <workItem from="1650633780927" duration="4772000" />
+      <workItem from="1650697113250" duration="2272000" />
+      <workItem from="1650771539213" duration="1508000" />
+      <workItem from="1650788901299" duration="5098000" />
+      <workItem from="1650801568047" duration="8271000" />
+      <workItem from="1650891103682" duration="8493000" />
+      <workItem from="1650958397390" duration="1429000" />
+      <workItem from="1650980340450" duration="5290000" />
+      <workItem from="1651065556409" duration="69000" />
+      <workItem from="1651066872908" duration="10764000" />
+      <workItem from="1651137130294" duration="3701000" />
+      <workItem from="1651146879800" duration="90000" />
+      <workItem from="1651147086060" duration="36000" />
+      <workItem from="1651147282606" duration="12892000" />
+      <workItem from="1651235931834" duration="11000" />
+      <workItem from="1651333142392" duration="101000" />
+      <workItem from="1651399226161" duration="24207000" />
+      <workItem from="1651807272887" duration="4777000" />
+      <workItem from="1651845401249" duration="167000" />
+      <workItem from="1651845587604" duration="214000" />
+      <workItem from="1651895438916" duration="4448000" />
+      <workItem from="1651976903035" duration="8405000" />
+      <workItem from="1652074013384" duration="6391000" />
+      <workItem from="1652103953192" duration="4569000" />
+      <workItem from="1652176147043" duration="6015000" />
+      <workItem from="1652185545159" duration="8522000" />
+      <workItem from="1652250581564" duration="12309000" />
+      <workItem from="1652317965772" duration="582000" />
+      <workItem from="1652318570832" duration="16260000" />
+      <workItem from="1652512004592" duration="7421000" />
+      <workItem from="1652538706441" duration="5861000" />
+      <workItem from="1652581758849" duration="7136000" />
+      <workItem from="1652595319912" duration="19841000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/basic/quicksort/QuickSort.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/basic/floatbinarysearch/DoubleBinSearch.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/datastruction/trietree/Main.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/searchandgraph/bfs/PuzzlePlace.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/datastruction/singlequeue/Main.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/searchandgraph/shortestroad/BellmanFord.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
